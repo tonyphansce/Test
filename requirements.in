@@ -2,3 +2,9 @@ numpy
 matplotlib==3.*
 seaborn==0.10.1
 pandas
+visvis
+PyQt5
+pyvtk
+calfem-python
+sphinx==4.0.2
+nbsphinx==0.8.6
